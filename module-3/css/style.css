@@ -1,0 +1,76 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	background-color:#011936;
+	padding:0;
+	margin:0;
+	color: #F4FFFD;
+}
+
+#header-nav{
+	background-color: #ED254E;
+	border-radius:0;
+	border:0;
+}
+
+.navbar .container{
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+.navbar-brand h1{
+	font-weight: bold;
+	font-size:1.9em;
+	margin-top:0;
+	margin-bottom:0;
+	line-height: .75;
+	text-shadow: 2px 2px 2px #222;
+	color: #F9DC5C;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+#nav-list a:hover{
+	background-color: #F4FFFD;
+	text-decoration: none;
+	color: #ED254E;
+}
+
+#nav-list li a{
+	text-align: center;
+	font-weight:bold;
+	text-transform: uppercase;
+	color:#F4FFFD;
+}
+
+/*main-content*/
+
+#menu-title{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.row{
+	margin-top: 35px;
+}
+
+#chicken, #beef, #sushi{
+	background-color: #ED254E;
+	
+	margin-bottom:20px;
+	padding:10px;
+}
+
+.food-title{
+	color: #F9DC5C;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#button-to-top{
+	background-color:#011936;
+	color: #F4FFFD;
+}
+
